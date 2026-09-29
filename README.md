@@ -1,6 +1,9 @@
 # Movie Sphere
 A Python and Streamlit-based movie search and recommendation system for discovering movies and exploring recommendations.
 
+## PROJECT
+![image alt](https://github.com/GagandeepSingh-GS/Movie-Sphere/blob/06245a48f68d03bfd774a610f3623284ca649a14/Movie%20Project%20image%201.png)
+
 ## Features
 
 - Search for movies
